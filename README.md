@@ -2,7 +2,6 @@
 
 ### [Day 1](https://github.com/freecodingbootcamp/Week-2/tree/master/Day-1):
 
-
 ### [Day 2](https://github.com/freecodingbootcamp/Week-2/tree/master/Day-2):
 
  - [INTRO-CSS](https://github.com/freecodingbootcamp/Week-2/blob/master/Day-2/INTRO-CSS.md)
